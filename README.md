@@ -1,1 +1,1 @@
-###Photo Generator Using OpenAI
+<h1 align="center">Photo Generator Using OpenAI</h1> 
