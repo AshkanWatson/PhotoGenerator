@@ -32,4 +32,3 @@ image_url = generate_image(prompt)
 print(image_url)
 
 
-
